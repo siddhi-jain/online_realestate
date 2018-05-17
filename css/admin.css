@@ -1,0 +1,28 @@
+
+#form label:after {
+    content: " *";
+    color: red;
+}
+#form table{
+	
+	table-layout:auto;
+	width:800px;
+}
+#form table,th,td{
+	
+	border-style:solid;
+	border-color:#000;
+	border:10 px;
+}
+
+
+#form{
+display:block;
+margin:80 230 15 230;
+padding:15;
+border-radius:5px;
+background-color:#bbb;
+opacity:0.85;
+color :#000000;
+}
+

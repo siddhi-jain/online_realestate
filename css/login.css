@@ -1,0 +1,17 @@
+#form label:after {
+    content: " *";
+    color: red;
+}
+
+
+#form{
+display:block;
+margin:80px 330px 15px 330px;
+padding:50px;
+border-radius:5px;
+background-color:#bbb;
+opacity:0.85;
+width:50%;
+height:300px;
+
+}
